@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hey! 👋
+
+I'm Chris Howard, Open Source Lead at EPAM Systems.
+
+Follow me on Twitter or ping me a message at:
+
+<a href="http://www.twitter.com/chris_howard"><img alt="Follow me on Twitter" src="https://img.shields.io/twitter/follow/chris_howard?style=social"></a>
 
 <!--
 **cm-howard/cm-howard** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
