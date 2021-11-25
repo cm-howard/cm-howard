@@ -2,7 +2,7 @@
 
 I'm Chris Howard, Open Source Lead at EPAM Systems.
 
-Follow me on Twitter or ping me a message at:
+Feel free to give me a follow me on Twitter or drop me a DM.
 
 <a href="http://www.twitter.com/chris_howard"><img alt="Follow me on Twitter" src="https://img.shields.io/twitter/follow/chris_howard?style=social"></a>
 
