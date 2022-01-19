@@ -2,9 +2,9 @@
 
 I'm Chris Howard, Open Source Lead at <a href="http://www.epam.com">@EPAM Systems</a> as well as involved in a few other things including:
 
-Chief Learning Officer & Ambassador <a href="http://www.openuk.uk">@OpenUK</a>
-D&I SIG Group Member <a href="https://www.finos.org/">@FINOS</a>
-Advisory Board Member for <a href="https://careeraccelerator.io/">@CareerAccelerator</a> and <a href="https://incredibleeverydaywoman.com/">@TheIncredibleEverydayWoman/a>
+Chief Learning Officer & Ambassador <a href="http://www.openuk.uk">@OpenUK</a><br/>
+D&I SIG Group Member <a href="https://www.finos.org/">@FINOS</a><br/>
+Advisory Board Member for <a href="https://careeraccelerator.io/">@CareerAccelerator</a> and <a href="https://incredibleeverydaywoman.com/">@TheIncredibleEverydayWoman</a><br/>
 MBA Student <a href="https://www.durham.ac.uk">@DurhamUniversity</a>
 
 Feel free to give me a follow me on Twitter or drop me a DM.
