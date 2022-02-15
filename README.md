@@ -16,6 +16,9 @@ Feel free to give me a follow me on Twitter or drop me a DM.
 <a href="https://www.github.com/epam/osci">Open Source Contributors Index (OSCI)</a>
 <br>OSCI ranks corporate contributions to open source based on the organization’s number of Active Contributors to GitHub. OSCI also tracks the Total Community of open source contributors for these companies. There's a great product team at EPAM leading this as well as some fantastic external contributors too. 
 
+<a href="https://github.com/todogroup/todogroup.org">TODO Group</a>
+<br>TODO is an open group of organizations that collaborate on practices, tools, and other ways to run successful and effective open source projects and programs. I'm currently sharing some of our ways of working and supporting where possible.
+
 <a href="https://github.com/finos/TimeBase-CE">TimeBase CE</a>
 <br>TimeBase CE is a time-series database that aims to provide, as Open Source, an enterprise grade time-series data management and messaging capability which enables financial services firms to use with other open-source and commercial components to augment existing solutions and create new solutions. This project exists within the <a href="https://github.com/finos">FINOS</a> landscape; an organisation pushing forward the boundaries of Open Source engagment within Financial Services.
 
