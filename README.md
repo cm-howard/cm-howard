@@ -1,6 +1,6 @@
 ### Hey! 👋
 
-I'm Chris Howard, Open Source Lead at <a href="http://www.epam.com">@EPAM Systems</a> as well as involved in a few other things including:
+I'm Chris Howard, Lead Open Source Program Manager <a href="http://www.epam.com">@EPAM Systems</a> as well as involved in a few other things including:
 
 Chief Learning Officer & Ambassador <a href="http://www.openuk.uk">@OpenUK</a><br/>
 D&I SIG Group Member <a href="https://www.finos.org/">@FINOS</a><br/>
