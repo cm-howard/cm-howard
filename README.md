@@ -28,7 +28,7 @@ Please feel free to give me a follow me on Twitter or drop me a DM.
 
 <h3>📘 Recent articles and posts...</h3>
 Here I'll share a few articles that I've either written or been featured in - please reach out to discuss further if the content interests you.
-<br>
+<br><br>
 
 * [The Open Source Approach is Revolutionizing the Business World...](https://greensoftware.foundation/articles/the-open-source-approach-is-revolutionizing-the-business-world-meet-christopher-h)
 * [Open Source Trends in the Corporate Sector 2022...](https://opensourceindex.io/p/open-source-trends-in-the-corporate-sector-throughout-2022)
