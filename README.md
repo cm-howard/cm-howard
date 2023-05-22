@@ -1,6 +1,4 @@
-![GHheader](https://github.com/cm-howard/cm-howard/assets/71087272/4df5db15-7140-4b85-a752-c4a420de58bd)
-
-### Hey! 👋
+![GHheader](https://github.com/cm-howard/cm-howard/assets/71087272/45daca2c-8632-4267-9a23-484388826889)
 
 I'm Chris Howard, Lead Open Source Program Manager <a href="http://www.epam.com">@EPAM Systems</a> as well as involved in a few other things including:
 
