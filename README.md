@@ -11,6 +11,8 @@ Feel free to give me a follow me on Twitter or drop me a DM.
 
 <a href="http://www.twitter.com/chris_howard"><img alt="Follow me on Twitter" src="https://img.shields.io/twitter/follow/chris_howard?style=social"></a>
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cm-howard&theme=algolia&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
 <h3>Projects I'm busy with...</h3>
 
 <a href="https://www.github.com/epam/osci">Open Source Contributors Index (OSCI)</a>
