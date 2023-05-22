@@ -1,13 +1,13 @@
 ![GHheader](https://github.com/cm-howard/cm-howard/assets/71087272/45daca2c-8632-4267-9a23-484388826889)
 
-I'm Chris Howard, Lead Open Source Program Manager <a href="http://www.epam.com">@EPAM Systems</a> as well as involved in a few other things including:
+I'm Chris Howard, Lead Open Source Program Manager <a href="http://www.epam.com">@EPAM Systems</a> looking after our growing community of open source contributors and developer community. I'm also involved in a few other things including some of these roles below: 
 
 Chief Learning Officer & Ambassador <a href="http://www.openuk.uk">@OpenUK</a><br/>
 D&I SIG Group Member <a href="https://www.finos.org/">@FINOS</a><br/>
 Advisory Board Member for <a href="https://careeraccelerator.io/">@CareerAccelerator</a> and <a href="https://incredibleeverydaywoman.com/">@TheIncredibleEverydayWoman</a><br/>
 MBA Student <a href="https://www.durham.ac.uk">@DurhamUniversity</a>
 
-Feel free to give me a follow me on Twitter or drop me a DM.
+Please feel free to give me a follow me on Twitter or drop me a DM.
 
 <a href="http://www.twitter.com/chris_howard"><img alt="Follow me on Twitter" src="https://img.shields.io/twitter/follow/chris_howard?style=social"></a>
 
