@@ -27,7 +27,8 @@ Please feel free to give me a follow me on Twitter or drop me a DM.
 <br>TimeBase CE is a time-series database that aims to provide, as Open Source, an enterprise grade time-series data management and messaging capability which enables financial services firms to use with other open-source and commercial components to augment existing solutions and create new solutions. This project exists within the <a href="https://github.com/finos">FINOS</a> landscape; an organisation pushing forward the boundaries of Open Source engagment within Financial Services.
 
 <h3>📘 Recent articles and posts...</h3>
-<br>Here I'll share a few articles that I've either written or been featured in - please reach out to discuss further if the content interests you.
+Here I'll share a few articles that I've either written or been featured in - please reach out to discuss further if the content interests you.
+<br>
 
 * [The Open Source Approach is Revolutionizing the Business World...](https://greensoftware.foundation/articles/the-open-source-approach-is-revolutionizing-the-business-world-meet-christopher-h)
 * [Open Source Trends in the Corporate Sector 2022...](https://opensourceindex.io/p/open-source-trends-in-the-corporate-sector-throughout-2022)
