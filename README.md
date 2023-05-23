@@ -4,6 +4,7 @@ I'm Chris Howard, Lead Open Source Program Manager <a href="http://www.epam.com"
 
 Chief Learning Officer & Ambassador <a href="http://www.openuk.uk">@OpenUK</a><br/>
 D&I SIG Group Member <a href="https://www.finos.org/">@FINOS</a><br/>
+Community Host <a href="https://aw.club">@AW.Club</a><br/>
 Advisory Board Member for <a href="https://careeraccelerator.io/">@CareerAccelerator</a> and <a href="https://incredibleeverydaywoman.com/">@TheIncredibleEverydayWoman</a><br/>
 MBA Student <a href="https://www.durham.ac.uk">@DurhamUniversity</a>
 
