@@ -24,9 +24,6 @@ Please feel free to give me a follow me on Twitter or drop me a DM.
 <a href="https://github.com/todogroup/todogroup.org">TODO Group</a>
 <br>TODO is an open group of organizations that collaborate on practices, tools, and other ways to run successful and effective open source projects and programs. I'm currently sharing some of our ways of working and supporting where possible.
 
-<a href="https://github.com/finos/TimeBase-CE">TimeBase CE</a>
-<br>TimeBase CE is a time-series database that aims to provide, as Open Source, an enterprise grade time-series data management and messaging capability which enables financial services firms to use with other open-source and commercial components to augment existing solutions and create new solutions. This project exists within the <a href="https://github.com/finos">FINOS</a> landscape; an organisation pushing forward the boundaries of Open Source engagment within Financial Services.
-
 <h3>📘 Recent articles and posts...</h3>
 Here I'll share a few articles that I've either written or been featured in - please reach out to discuss further if the content interests you.
 <br><br>
@@ -35,17 +32,3 @@ Here I'll share a few articles that I've either written or been featured in - pl
 * [Open Source Trends in the Corporate Sector 2022...](https://opensourceindex.io/p/open-source-trends-in-the-corporate-sector-throughout-2022)
 * [Open Source Software and Collaboration Could Curb Climate Change...](https://www.sgvoice.net/strategy/technology/5875/open-source-sustainability-curbing-climate-change-collaborative-principles/)
 
-<!--
-**cm-howard/cm-howard** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
