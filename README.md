@@ -4,6 +4,7 @@ I'm Chris Howard, Head of the Open Source Program Office at <a href="http://www.
 
 Chief Learning Officer & Ambassador <a href="http://www.openuk.uk">@OpenUK</a><br/>
 D&I SIG Group Member <a href="https://www.finos.org/">@FINOS</a><br/>
+Green Software Champion <a href="https://github.com/Green-Software-Foundation/">@Green Software Foundation</a></br>
 Community Host <a href="https://aw.club">@AW.Club</a><br/>
 Advisory Board Member for <a href="https://careeraccelerator.io/">@CareerAccelerator</a> and <a href="https://incredibleeverydaywoman.com/">@TheIncredibleEverydayWoman</a><br/>
 MBA Student <a href="https://www.durham.ac.uk">@DurhamUniversity</a>
