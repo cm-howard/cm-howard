@@ -20,9 +20,6 @@ Please feel free to give me a follow me on Twitter or drop me a DM.
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=epam&repo=osci&theme=nightowl)](https://github.com/anuraghazra/github-readme-stats)
 
-<a href="https://www.epam.com/services/engineering/open-source/ospulse">OSPulse</a>
-<br>OSPulse is an enterprise-level analytics dashboard for monitoring open source engagement that the amazing team at EPAM have built and continue to innovate. The tool gathers information about individual and companywide engagement with open source platforms (including GitHub), to provide you with greater transparency and visibility to make data-driven decisions.
-
 <a href="https://github.com/todogroup/todogroup.org">TODO Group</a>
 <br>TODO is an open group of organizations that collaborate on practices, tools, and other ways to run successful and effective open source projects and programs. I'm currently sharing some of our ways of working and supporting where possible.
 
