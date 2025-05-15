@@ -1,6 +1,4 @@
-![GHheader](https://github.com/cm-howard/cm-howard/assets/71087272/45daca2c-8632-4267-9a23-484388826889)
-
-I'm Chris Howard, an Open Source advocate and previous Head of the Open Source Program Office at <a href="http://www.epam.com">@EPAM Systems</a> where I was looking after a growing community of open source contributors and incredible developer community. I´m now looking for an exciting new opportunity but until then I´m also involved in a few other things including some of these roles below... 
+I'm Chris Howard, an Open Source advocate and previously I was the Head of the Open Source Program Office at <a href="http://www.epam.com">@EPAM Systems</a> where I was looking after a growing community of open source contributors, a range of clients open-sourcing their own solutions and of course helping build an incredible developer community. I´m now looking for an exciting new opportunity but until then I´m also involved in a few other things including some of these roles below... 
 
 Chief Learning Officer & Ambassador <a href="http://www.openuk.uk">@OpenUK</a><br/>
 D&I SIG Group Member <a href="https://www.finos.org/">@FINOS</a><br/>
