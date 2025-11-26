@@ -3,7 +3,6 @@ I'm Chris Howard, an Open Source advocate and Open Source Technical Program Mana
 Chief Learning Officer & Ambassador <a href="http://www.openuk.uk">@OpenUK</a><br/>
 D&I SIG Group Member <a href="https://www.finos.org/">@FINOS</a><br/>
 Green Software Champion <a href="https://github.com/Green-Software-Foundation/">@Green Software Foundation</a></br>
-Advisory Board Member for <a href="https://careeraccelerator.io/">@CareerAccelerator</a> and <a href="https://incredibleeverydaywoman.com/">@TheIncredibleEverydayWoman</a><br/>
 
 Please feel free to give me a follow me on Twitter or drop me a DM.
 
