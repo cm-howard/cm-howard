@@ -1,16 +1,19 @@
-I'm Chris Howard, an Open Source advocate and Open Source Technical Program Manager at <a href="https://uber.github.io/#/">@Uber</a> helping engineers and the wider community get stuck in to all things open source and collaboration at scale. n I´m also involved in a few other things including some of these roles below... 
+I'm Chris, Head of the Open Source Program Office over <a href="https://uber.github.io/#/">@Uber</a> helping engineers and the wider community get stuck in to all things open source and collaboration at scale. I´m also involved in a few other things including some of these roles below... 
 
 Chief Learning Officer & Ambassador <a href="http://www.openuk.uk">@OpenUK</a><br/>
 D&I SIG Group Member <a href="https://www.finos.org/">@FINOS</a><br/>
 Green Software Champion <a href="https://github.com/Green-Software-Foundation/">@Green Software Foundation</a></br>
 
-Please feel free to give me a follow me on Twitter or drop me a DM.
+Please feel free to give me a follow me on X or drop me a DM.
 
-<a href="http://www.twitter.com/chris_howard"><img alt="Follow me on Twitter" src="https://img.shields.io/twitter/follow/chris_howard?style=social"></a>
+<a href="http://www.twitter.com/chris_howard"><img alt="Follow me on X" src="https://img.shields.io/twitter/follow/chris_howard?style=social"></a>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cm-howard)](https://github.com/anuraghazra/github-readme-stats)
 
 <h3>💻 Projects I'm busy with...</h3>
+
+<a href="https://github.com/uber/h3/">H3</a>
+<br>H3 is a geospatial indexing system using a hexagonal grid that can be (approximately) subdivided into finer and finer hexagonal grids, combining the benefits of a hexagonal grid with S2's hierarchical subdivisions. I'm engaged helping to maintain and support the community as a steward of this important project. 
 
 <a href="https://www.github.com/epam/osci">Open Source Contributors Index (OSCI)</a>
 <br>OSCI ranks corporate contributions to open source based on the organization’s number of Active Contributors to GitHub. OSCI also tracks the Total Community of open source contributors for these companies. There's a great product team at EPAM leading this as well as some fantastic external contributors too. 
