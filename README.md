@@ -1,7 +1,6 @@
 I'm Chris, Head of the Open Source Program Office over <a href="https://uber.github.io/#/">@Uber</a> helping engineers and the wider community get stuck in to all things open source and collaboration at scale. I´m also involved in a few other things including some of these roles below... 
 
 Chief Learning Officer & Ambassador <a href="http://www.openuk.uk">@OpenUK</a><br/>
-D&I SIG Group Member <a href="https://www.finos.org/">@FINOS</a><br/>
 Green Software Champion <a href="https://github.com/Green-Software-Foundation/">@Green Software Foundation</a></br>
 
 Please feel free to give me a follow me on X or drop me a DM.
